@@ -41,8 +41,6 @@ customer_shopping_behavior.csv
 
 * Pandas
 * NumPy
-* Matplotlib
-* Seaborn
 * Jupyter Notebook
 
 ### Business Intelligence
